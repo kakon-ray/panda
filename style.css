@@ -35,3 +35,12 @@ Start header section
 .shadow-height {
   height: 600px;
 }
+
+/* ===============================================
+ Bootstrap style override
+=================================================== */
+
+.panda-btn-danger {
+  color: #fff;
+  background-color: #ff3c89;
+}
