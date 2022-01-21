@@ -1,3 +1,7 @@
+/* ===============================================
+Start header section
+=================================================== */
+
 .carousel-item {
   background-color: #fceae8;
   padding: 50px 0;
@@ -12,4 +16,15 @@
   padding-left: 5%;
   align-items: center;
   justify-content: center;
+}
+
+/* ===============================================
+   Start category section
+=================================================== */
+.card {
+  min-width: 100%;
+}
+
+.shadow-height {
+  height: 600px;
 }
