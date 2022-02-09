@@ -44,3 +44,13 @@ Start header section
   color: #fff;
   background-color: #ff3c89;
 }
+
+#hidden {
+  display: none;
+}
+
+#subscribe {
+  padding-bottom: 50px;
+  padding-top: 50px;
+  margin-bottom: 0;
+}
