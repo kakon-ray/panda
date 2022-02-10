@@ -30,7 +30,7 @@ const email = document.getElementById("email");
 const btn = document.getElementById("submit");
 
 email.addEventListener("keyup", (e) => {
-  if (e.target.value == "email") {
+  if (e.target.value == "Email") {
     btn.classList.remove("disabled");
     console.log(e.target.value);
   }
